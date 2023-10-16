@@ -31,4 +31,4 @@ Una volta configurato il file è possibile avviare il progetto e testarlo utiliz
 Al seguente link è possible accedere alle chiamate PostMan che ho utilizzato per testare l'applicazione:  
   
 ##POSTMAN  
-LIBRERIA POSTMAN ->   
+LIBRERIA POSTMAN ->   https://progettosbloviselliandrea.postman.co/workspace/New-Team-Workspace~b2d02203-2a9a-47ed-867e-79b9a8e2c608/collection/27730869-eee52046-9ec5-4363-9210-a4e0c0f5f41f?action=share&creator=27730869
