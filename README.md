@@ -46,8 +46,6 @@ create table authorities (
 
 create unique index ix_auth_username on authorities (username, authority);
 
-SELECT * FROM users;
-
 INSERT INTO users (id, username, password, enabled)
 VALUES (1, 'admin', '$2a$10$ZWYGqb56wF3sduxLNd/qmO.ywhQW.2tKqmNXjeaUyEEAjcHJUgmES', true);
 
